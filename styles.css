@@ -1,0 +1,7 @@
+body{
+  background-color: aqua;
+  background-image: -moz-element(stars);
+}
+h1 {
+  text-align: center;
+}
